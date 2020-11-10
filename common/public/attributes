@@ -1,5 +1,2 @@
-# CameraMotor
-hal_attribute_aosp(lineage_camera_motor)
-
 # FOD
 hal_attribute_aosp(lineage_fod)
